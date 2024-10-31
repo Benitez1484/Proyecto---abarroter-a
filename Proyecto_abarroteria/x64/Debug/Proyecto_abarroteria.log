@@ -1,0 +1,5 @@
+﻿  ProgramaAbarroteria.cpp
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto_abarroteria\Proyecto_abarroteria\ProgramaAbarroteria.cpp(353,6): warning C4101: 'searchPrecio': variable local sin referencia
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto_abarroteria\Proyecto_abarroteria\ProgramaAbarroteria.cpp(352,6): warning C4101: 'searchEstadia': variable local sin referencia
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto_abarroteria\Proyecto_abarroteria\ProgramaAbarroteria.cpp(1538,16): warning C4101: 'opcionabbdato': variable local sin referencia
+  Proyecto_abarroteria.vcxproj -> E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto_abarroteria\x64\Debug\Proyecto_abarroteria.exe
